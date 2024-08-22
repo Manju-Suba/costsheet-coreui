@@ -1,0 +1,8 @@
+/* //visible error message */
+.error-message {
+  display: none;
+}
+
+.error-message.show {
+  display: block;
+}
